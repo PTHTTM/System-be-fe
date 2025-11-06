@@ -1,4 +1,3 @@
-````markdown
 # Đồ án Hệ thống Thương mại Điện tử SmartVN
 
 Đây là một dự án thương mại điện tử hoàn chỉnh được xây dựng theo kiến trúc Microservices, bao gồm giao diện cho khách hàng (`smartvn-frontend`) và trang quản trị (`admin-smartVN`).
@@ -72,7 +71,4 @@ Sau khi tất cả các dịch vụ đã khởi động (bạn có thể kiểm 
 
 ```bash
 docker-compose down
-```
-
-```
 ```
